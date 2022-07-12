@@ -1,0 +1,52 @@
+.container {
+    position: relative;
+    display: inline-block;
+    font-family: 'Roboto', sans-serif;
+
+}
+.title {
+    position: absolute;
+    top: -25px;
+    left: 0;
+    height: 40px;
+    font-size: 25px;
+    color: #000;
+}
+.LOGO {
+    position: absolute;
+    top: 420px;
+    right: 110px;
+}
+.resume {
+    position: inherit;
+    top: -30px;
+    padding: 20px 545px 20px;
+    font-size: 25px;
+    background-color: mediumblue;
+    color: #fff;
+}
+.ul {
+    list-style: none;
+    font-family: 'Roboto', sans-serif;
+}
+.list {
+    font-size: 30px;
+    position: relative;
+    display: inline;
+    top: 25px;
+}
+.left {
+    padding: 5px 10px 5px;
+    margin: auto,
+    height: 50px;
+    width: 50px;
+}
+.center {
+    position: relative;
+    text-align: center;
+    top: -130px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    width: 200px;
+    margin: 0 auto;
+}
