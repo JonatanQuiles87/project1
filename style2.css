@@ -20,10 +20,30 @@
     top: 25px;
     right: 650px;     
     }
-.right {
+.right1 {
     padding: 5px 10px 5px;
+    text-align: center;
     background-color: aqua;
-    margin: 0;
+    border: solid 2px black;
+    margin: 5px;
+    height: 50px;
+    width: 100px;
+}
+.right2 {
+    padding: 5px 10px 5px;
+    text-align: center;
+    background-color: aqua;
+    border: solid 2px black;
+    margin: 5px;
+    height: 50px;
+    width: 100px;
+}
+.right3 {
+    padding: 5px 10px 5px;
+    text-align: center;
+    background-color: aqua;
+    border: solid 2px black;
+    margin: 5px;
     height: 50px;
     width: 100px;
 }
@@ -96,4 +116,34 @@
     font-size: 30px;
     width: 500px;
     margin: 0;
+}
+a:hover {
+    background-color: greenyellow;
+}
+.right1a {
+    background-color: greenyellow;
+    padding: 5px 10px 5px;
+    text-align: center;
+    border: solid 2px black;
+    margin: 5px;
+    height: 50px;
+    width: 100px;
+}
+.right2a {
+    background-color: greenyellow;
+    padding: 5px 10px 5px;
+    text-align: center;
+    border: solid 2px black;
+    margin: 5px;
+    height: 50px;
+    width: 100px; 
+}
+.right3a { 
+    background-color: greenyellow;
+    padding: 5px 10px 5px;
+    text-align: center;
+    border: solid 2px black;
+    margin: 5px;
+    height: 50px;
+    width: 100px;
 }
