@@ -1,0 +1,149 @@
+.container {
+    position: relative;
+    display: inline-block;
+    font-family: 'Roboto', sans-serif;
+}
+.ul {
+    list-style: none;
+
+    position: relative;
+    text-align: right;
+    color: white;
+
+    display: inline-flex;
+    font-family: 'Roboto', sans-serif;
+}
+.list {
+    font-size: 30px;
+    position: absolute;
+    display: inline-block;
+    top: 25px;
+    right: 650px;     
+    }
+.right1 {
+    padding: 5px 10px 5px;
+    text-align: center;
+    background-color: aqua;
+    border: solid 2px black;
+    margin: 5px;
+    height: 50px;
+    width: 100px;
+}
+.right2 {
+    padding: 5px 10px 5px;
+    text-align: center;
+    background-color: aqua;
+    border: solid 2px black;
+    margin: 5px;
+    height: 50px;
+    width: 100px;
+}
+.right3 {
+    padding: 5px 10px 5px;
+    text-align: center;
+    background-color: aqua;
+    border: solid 2px black;
+    margin: 5px;
+    height: 50px;
+    width: 100px;
+}
+.title {
+    position: relative;
+    top: -25px;
+    left: 0;
+    height: 40px;
+    font-size: 25px;
+    color: #000;
+}
+.LOGO {
+    position: inherit;
+    top: 5px;
+    left: 0;
+}
+.resume {
+    position: inherit;
+    display: inline-block;
+    width: 192px;
+    top: -30px;
+    padding: 20px 545px 20px;
+    font-size: 25px;
+    background-color: #fff;
+    color: #000;
+    border: solid 2px #000;
+}
+.center {
+    position: relative;
+    text-align: left;
+    left: 300px;
+    top: -210px;
+    display: inline-block;
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    width: 400px;
+    margin: 0 auto;
+}
+.center p {
+    text-align: center;
+    margin: 0;
+    padding-left: 25px;
+    display: inline-block;
+}
+.center2 {
+    position: relative;
+    text-align: justify;
+    left: 190px;
+    top: -210px;
+    display: inline-block;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    width: 400px;
+    margin: 0;
+}
+.center2 p {
+    text-align: justify;
+    margin: 0;
+    border: 0;
+    padding-left: 0px;
+    width: 1000px;
+}
+.center2a {
+    position: relative;
+    text-align: justify;
+    left: 200px;
+    top: -210px;
+    display: inline-block;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    width: 500px;
+    margin: 0;
+}
+a:hover {
+    background-color: greenyellow;
+}
+.right1a {
+    background-color: greenyellow;
+    padding: 5px 10px 5px;
+    text-align: center;
+    border: solid 2px black;
+    margin: 5px;
+    height: 50px;
+    width: 100px;
+}
+.right2a {
+    background-color: greenyellow;
+    padding: 5px 10px 5px;
+    text-align: center;
+    border: solid 2px black;
+    margin: 5px;
+    height: 50px;
+    width: 100px; 
+}
+.right3a { 
+    background-color: greenyellow;
+    padding: 5px 10px 5px;
+    text-align: center;
+    border: solid 2px black;
+    margin: 5px;
+    height: 50px;
+    width: 100px;
+}
