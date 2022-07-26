@@ -161,9 +161,9 @@ ol, li {
     left: 200px;
     padding: 15px;
    }
-   .special {
+.table2 {
     position: relative;
     text-align: center;
-    display: contents;
-    border: none;
+    display: inline-block;
+    border-style: none;
    }
