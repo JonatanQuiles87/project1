@@ -167,3 +167,8 @@ ol, li {
     display: inline-block;
     border-style: none;
    }
+.mapouter {
+    position: relative;
+    text-align: center;
+    display: inline-block;
+}
